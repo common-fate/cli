@@ -1,5 +1,11 @@
 # @common-fate/cli
 
+## 1.14.1
+
+### Patch Changes
+
+- d6d3599: Fixes an issue where the CLI was displaying an incorrect time for the duration to be extended by.
+
 ## 1.14.0
 
 ### Minor Changes
