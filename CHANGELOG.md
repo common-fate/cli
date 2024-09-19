@@ -1,5 +1,11 @@
 # @common-fate/cli
 
+## 1.16.3
+
+### Patch Changes
+
+- cab8314: fix permissions when creating cf config files to exclude execute permission
+
 ## 1.16.2
 
 ### Patch Changes
